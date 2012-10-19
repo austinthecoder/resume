@@ -20,7 +20,7 @@ To work for a company focusing on the Ruby language and related web technologies
 
 ### Beliefs
 * Pair and solo programming are tools best applied to the right kind of task or situation.
-* Stakeholder feedback and involvement is important to a product's sucess.
+* Stakeholder feedback and involvement is important to a product's success.
 * Developers perform best when they're happy, challenged, consistently learning, appreciated and held accountable.
 * Agile software development is the ideal process, especially when tailored to a company's strengths.
 
@@ -40,11 +40,9 @@ To work for a company focusing on the Ruby language and related web technologies
 * Worked on and built various Ruby-based and Facebook applications to help clients manage their services
 * Integrated custom billing and payments via web and SMS interfaces
 
-_Additional experience provided upon request_
-
 ## Education
 Augusta State University  
 Bachelor of Science – Majored in Computer Science and Mathematics  
 Graduated in May of 2006
 
-_I can provide, and encourage you to ask for, personal references and example code_
+_I encourage you to ask for additional experience, personal references and example code._
