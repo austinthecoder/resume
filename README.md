@@ -1,8 +1,8 @@
 # Austin Schneider
-_700 Spalding Ct._  
-_Martinez, GA 30907_  
+_808 Upington Ln_  
+_Evans, GA 30809_  
 _706-833-2138_  
-_austinthecoder@gmail.com_
+_me@austinschneider.com_
 
 ## Objective
 To work for a company focusing on the Ruby language and related web technologies. Ideal company is passionate about software craftsmanship and the agile methodologies.
